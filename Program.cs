@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace MealyMachineCommentParser
+namespace MealyMachine
 {
     // State definitions: A, B, C, D, Trap
     public enum State
